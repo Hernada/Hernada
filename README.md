@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Hernada.
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Hernada/Hernada/blob/main/2.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Hernada/Hernada/blob/main/1.gif">
 - 🌱 I’m currently learning about Full-Stack Web Development
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 What is the best way to contact me ? [Instagram](https://www.instagram.com/hernada48/) [Linkedin](https://www.linkedin.com/in/muhammad-nabil-hernada-97b8b6213/)
@@ -29,9 +29,8 @@ An independent Software Engineer who loves to create and share projects about we
 </p>
 
 ### Reach me on
-<a href="https://discord.me/hernada48" target="_blank"><img src="https://img.shields.io/badge/Hernada%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.me/hernada48" target="_blank"><img src="https://img.shields.io/badge/hernada48%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=e6yum38bg2u567armtcxygk5o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="600" />
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXc5Mm80ajNrMmdncXBsa3loeTZvYXZ6cHBpY3l1YWllaHo3bDFzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKmFXlTWtmp20/giphy.gif" width="300" />
-<img src="https://https://github.com/Hernada/Hernada/blob/master/2.gif"/>
